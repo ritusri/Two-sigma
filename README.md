@@ -3,3 +3,5 @@ loop through a long series of trading days; for each day, received an updated st
 of news articles which were published since the last trading day, along with impacted stocks and sentiment analysis. 
 I had use this information to predict whether each stock will have increased or decreased ten trading days into the future. 
 Once make these predictions, moved on to the next trading day.
+
+There is data about market trading and news article in .csv formate
